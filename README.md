@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <img align="right" width=400px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd5Y2FhMTNwbTZpb3hoMjN2am00NGp3ZjBrY2VoYWl2NjFmNjQ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
-style="border-radius: 30px; display: block;" /> 
+style="border-radius: 30px; display: inline-block;" /> 
 
 I am an Information Systems Engineering student, currently finishing my degree. I am expanding my knowledge in front-end and back-end development. I enjoy learning new things and exploring new challenges.
 - 🌱 I’m currently learning ...
