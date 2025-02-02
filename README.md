@@ -9,9 +9,9 @@ I am an Information Systems Engineering student, currently finishing my degree. 
   - Java
   - Laravel
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 🎵 listen to music, and 🌴 explore nature outdoors.
-
+- ✔ Ask me about anything, I am happy to help!😉<br>
+- Outside tech, 🎵 listen to music and playing video games.
+- 📫 Reach out to me at: <a href="alex.espinozavalera@gmail.com">alex.espinozavalera@gmail.com</a>
 
 ## My Skills Include
 
@@ -70,7 +70,7 @@ I am an Information Systems Engineering student, currently finishing my degree. 
 ------
 Credit: Alex-Espinoza
 
-Last Edited on: 09/09/2021
+Last Edited on: 01/01/2025
 
 
 
