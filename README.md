@@ -2,7 +2,7 @@
 
 <!--<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />-->
 
-<img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxhczM1ZHRxZnBwbXNrYzZsbDM3OGhqaTNudzVydnpoem04djgwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="30px">&nbsp;***About me***
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxhczM1ZHRxZnBwbXNrYzZsbDM3OGhqaTNudzVydnpoem04djgwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an Information Systems Engineering student, currently finishing my degree. I am expanding my knowledge in front-end and back-end development. I enjoy learning new things and exploring new challenges.
 - 🌱 I’m currently learning ...
